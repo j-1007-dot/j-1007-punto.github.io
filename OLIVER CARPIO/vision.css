@@ -1,0 +1,33 @@
+.Somos{
+	background-color: #abebc6;
+	text-align: center;
+}
+html, body{
+	background-color: #d1f2eb ;
+}
+.mision{
+	text-align: left;
+	background-color:#e5e7e9 ;
+	width: 40%;
+	
+
+}
+.vision{
+	text-align: left;
+	background-color: #e5e7e9;
+	width: 35%;
+}
+.p{
+	text-align: left;
+	padding: 50px;
+	margin: 30px;
+}
+.misio{
+	text-align:right ;
+}
+.LOGO{
+	float:left;
+	margin-right: 2%;
+	margin-left: 2%;
+	width:3%;
+}

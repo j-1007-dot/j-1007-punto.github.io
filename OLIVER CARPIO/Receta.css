@@ -1,0 +1,24 @@
+.LOGO{
+	float:right;
+	margin-right: 1%;
+	margin-left: 5%;
+	width:5%;
+	height: 5%;
+}
+html, body  {
+	background: #d5f5e3;;
+}
+.receta2{
+
+float:left;
+margin-left:30%;
+margin-top:-13%;
+width: 20%;
+}
+.receta1{
+width:30%;
+height: 10%;
+
+
+
+}
